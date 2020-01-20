@@ -1,5 +1,7 @@
 # Polarity Local Calling Guide Integration
 
+![mode:on demand only](https://img.shields.io/badge/mode-on%20demand%20only-blue.svg)
+
 The Polarity Local Calling Guide integration leverages the xmlquery interface of Local Calling Guide (https://localcallingguide.com/) to perform a NPA/NXX (area code/prefix) search on telephone numbers.
 
 The integration will recognize phone numbers with the following formats:
