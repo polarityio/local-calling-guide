@@ -1,0 +1,14 @@
+{
+  "main": "./integration.js",
+  "name": "local-calling-guide",
+  "homepage": "https://github.com/polarityio/local-calling-guide",
+  "bugs": "https://github.com/polarityio/local-calling-guide/issues",
+  "license": "MIT",
+  "version": "3.0.0-beta",
+  "private": true,
+  "dependencies": {
+    "request": "^2.88",
+    "async": "^2.6",
+    "xml2js": "^0.4.23"
+  }
+}
