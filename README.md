@@ -1,6 +1,18 @@
-# Polarity localcallingguide Integration
+# Polarity Local Calling Guide Integration
 
 The Polarity Local Calling Guide integration leverages the xmlquery interface of Local Calling Guide (https://localcallingguide.com/) to perform a NPA/NXX (area code/prefix) search on telephone numbers.
+
+The integration will recognize phone numbers with the following formats:
+
+* (888) 123 4567
+* 888-123-4567
+* 888.123.4567
+* (888) 123.4567
+* (888) 123-4567
+
+| ![image](images/overlay.png) |
+|---|
+|*Phone number lookup example* |
 
 ## Installation Instructions
 
