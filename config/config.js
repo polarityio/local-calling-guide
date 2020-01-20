@@ -24,6 +24,7 @@ module.exports = {
    */
   description:
     'Local Calling Guide contains local calling, area code, and prefix information for Canada, the United States of America, and other countries which are part of the North American Numbering Plan',
+  onDemandOnly: true,
   customTypes: [
     {
       key: 'phone',
