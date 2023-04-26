@@ -1,6 +1,6 @@
 {
   "name": "local-calling-guide",
-  "version": "3.0.3-beta",
+  "version": "3.0.4",
   "main": "./integration.js",
   "homepage": "https://github.com/polarityio/local-calling-guide",
   "bugs": "https://github.com/polarityio/local-calling-guide/issues",
